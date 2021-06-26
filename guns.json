@@ -1,0 +1,887 @@
+[
+  {
+    "name": "AKM",
+    "id": 0,
+    "type": "AssaultRifle",
+    "image_url": "Icon_weapon_AKM.png",
+    "magazine_size": 30,
+    "ammo_id": 4,
+    "range": 60,
+    "stability": 34,
+    "rate": 61,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 23,
+      "chest0": 46,
+      "chest1": 32,
+      "chest2": 27,
+      "chest3": 20,
+      "head0": 114,
+      "head1": 80,
+      "head2": 68,
+      "head3": 51
+    },
+    "magazine_ids": [
+      13,
+      18,
+      27
+    ],
+    "muzzle_ids": [
+      9,
+      22,
+      35
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "AWM",
+    "id": 1,
+    "type": "SniperRifle",
+    "image_url": "Icon_weapon_AWM.png",
+    "magazine_size": 5,
+    "ammo_id": 0,
+    "range": 100,
+    "stability": 34,
+    "rate": 5,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 66,
+      "chest0": 131,
+      "chest1": 92,
+      "chest2": 79,
+      "chest3": 59,
+      "head0": 328,
+      "head1": 229,
+      "head2": 197,
+      "head3": 147
+    },
+    "magazine_ids": [
+      17,
+      20,
+      32
+    ],
+    "muzzle_ids": [
+      10,
+      24,
+      38
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ],
+    "stock_ids": [
+      7
+    ]
+  },
+  {
+    "name": "Crossbow",
+    "id": 2,
+    "type": "Crossbow",
+    "image_url": "Icon_weapon_Crossbow.png",
+    "magazine_size": 1,
+    "ammo_id": 6,
+    "range": 4,
+    "reload": 0,
+    "stability": 34,
+    "rate": 2,
+    "capacity": 500,
+    "damage": {
+      "base": 53,
+      "chest0": 105,
+      "chest1": 74,
+      "chest2": 63,
+      "chest3": 47,
+      "head0": 263,
+      "head1": 184,
+      "head2": 158,
+      "head3": 118
+    },
+    "magazine_ids": [
+      28
+    ],
+    "grip_ids": [
+      25
+    ],
+    "sight_ids": [
+      1,
+      2,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "Crowbar",
+    "id": 3,
+    "type": "Melee",
+    "image_url": "Icon_weapon_Crowbar.png",
+    "rate": 0,
+    "capacity": 120,
+    "damage": {
+      "base": 0,
+      "chest0": 0,
+      "chest1": 0,
+      "chest2": 0,
+      "chest3": 0,
+      "head0": 0,
+      "head1": 0,
+      "head2": 0,
+      "head3": 0
+    }
+  },
+  {
+    "name": "Frag Grenade",
+    "id": 4,
+    "type": "Grenade",
+    "image_url": "Icon_weapon_FragGrenade.png",
+    "capacity": 12,
+    "damage": {
+      "base": 0
+    }
+  },
+  {
+    "name": "Karabiner 98 Kurz",
+    "id": 5,
+    "type": "SniperRifle",
+    "image_url": "Icon_weapon_Kar98k.png",
+    "magazine_size": 5,
+    "ammo_id": 4,
+    "range": 79,
+    "stability": 34,
+    "rate": 4,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 36,
+      "chest0": 72,
+      "chest1": 50,
+      "chest2": 43,
+      "chest3": 32,
+      "head0": 180,
+      "head1": 126,
+      "head2": 108,
+      "head3": 81
+    },
+    "muzzle_ids": [
+      10,
+      24,
+      38
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ],
+    "stock_ids": [
+      7
+    ]
+  },
+  {
+    "name": "M16A4",
+    "id": 6,
+    "type": "AssaultRifle",
+    "image_url": "Icon_weapon_M16A4.png",
+    "magazine_size": 30,
+    "ammo_id": 3,
+    "range": 62,
+    "stability": 28,
+    "rate": 81,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 21,
+      "chest0": 41,
+      "chest1": 29,
+      "chest2": 25,
+      "chest3": 18,
+      "head0": 103,
+      "head1": 72,
+      "head2": 62,
+      "head3": 46
+    },
+    "magazine_ids": [
+      13,
+      18,
+      27
+    ],
+    "muzzle_ids": [
+      9,
+      22,
+      35
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "M24",
+    "id": 7,
+    "type": "SniperRifle",
+    "image_url": "Icon_weapon_M24.png",
+    "magazine_size": 5,
+    "ammo_id": 4,
+    "range": 96,
+    "stability": 32,
+    "rate": 6,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 42,
+      "chest0": 84,
+      "chest1": 59,
+      "chest2": 50,
+      "chest3": 38,
+      "head0": 210,
+      "head1": 147,
+      "head2": 126,
+      "head3": 95
+    },
+    "magazine_ids": [
+      17,
+      20,
+      32
+    ],
+    "muzzle_ids": [
+      10,
+      24,
+      38
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ],
+    "stock_ids": [
+      7
+    ]
+  },
+  {
+    "name": "M249",
+    "id": 8,
+    "type": "LMG",
+    "image_url": "Icon_weapon_M249.png",
+    "magazine_size": 100,
+    "ammo_id": 3,
+    "range": 71,
+    "stability": 44,
+    "rate": 77,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 22,
+      "chest0": 44,
+      "chest1": 31,
+      "chest2": 26,
+      "chest3": 20,
+      "head0": 110,
+      "head1": 77,
+      "head2": 66,
+      "head3": 50
+    },
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "M416",
+    "id": 9,
+    "type": "AssaultRifle",
+    "image_url": "Icon_weapon_M416.png",
+    "magazine_size": 30,
+    "ammo_id": 3,
+    "range": 57,
+    "reload": 0,
+    "stability": 32,
+    "rate": 77,
+    "capacity": 500,
+    "damage": {
+      "base": 21,
+      "chest0": 41,
+      "chest1": 29,
+      "chest2": 25,
+      "chest3": 18,
+      "head0": 103,
+      "head1": 72,
+      "head2": 62,
+      "head3": 46
+    },
+    "magazine_ids": [
+      13,
+      18,
+      27
+    ],
+    "muzzle_ids": [
+      9,
+      22,
+      35
+    ],
+    "grip_ids": [
+      4,
+      40
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ],
+    "stock_ids": [
+      39
+    ]
+  },
+  {
+    "name": "Machete",
+    "id": 10,
+    "type": "Melee",
+    "image_url": "Icon_weapon_Machete.png",
+    "rate": 0,
+    "capacity": 120,
+    "damage": {
+      "base": 0,
+      "chest0": 0,
+      "chest1": 0,
+      "chest2": 0,
+      "chest3": 0,
+      "head0": 0,
+      "head1": 0,
+      "head2": 0,
+      "head3": 0
+    }
+  },
+  {
+    "name": "Micro Uzi",
+    "id": 11,
+    "type": "SMG",
+    "image_url": "Icon_weapon_UZI.png",
+    "magazine_size": 30,
+    "ammo_id": 5,
+    "range": 22,
+    "stability": 31,
+    "rate": 70,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 12,
+      "chest0": 23,
+      "chest1": 16,
+      "chest2": 14,
+      "chest3": 10,
+      "head0": 58,
+      "head1": 40,
+      "head2": 35,
+      "head3": 26
+    },
+    "magazine_ids": [
+      16,
+      21,
+      31
+    ],
+    "muzzle_ids": [
+      23,
+      37
+    ],
+    "stock_ids": [
+      34
+    ]
+  },
+  {
+    "name": "Molotov Cocktail",
+    "id": 12,
+    "type": "Grenade",
+    "image_url": "Icon_weapon_Molotov.png",
+    "range": 0,
+    "capacity": 18,
+    "damage": {
+      "base": 0
+    }
+  },
+  {
+    "name": "P1911",
+    "id": 13,
+    "type": "Pistol",
+    "image_url": "Icon_weapon_P1911.png",
+    "magazine_size": 7,
+    "ammo_id": 1,
+    "range": 15,
+    "stability": 25,
+    "rate": 53,
+    "reload": 0,
+    "capacity": 100,
+    "damage": {
+      "base": 18,
+      "chest0": 35,
+      "chest1": 25,
+      "chest2": 21,
+      "chest3": 16,
+      "head0": 88,
+      "head1": 61,
+      "head2": 53,
+      "head3": 39
+    },
+    "magazine_ids": [
+      15,
+      19,
+      30
+    ],
+    "muzzle_ids": [
+      36
+    ]
+  },
+  {
+    "name": "P92",
+    "id": 14,
+    "type": "Pistol",
+    "image_url": "Icon_weapon_P92.png",
+    "magazine_size": 15,
+    "ammo_id": 5,
+    "range": 15,
+    "stability": 25,
+    "rate": 53,
+    "reload": 0,
+    "capacity": 100,
+    "damage": {
+      "base": 15,
+      "chest0": 29,
+      "chest1": 20,
+      "chest2": 17,
+      "chest3": 13,
+      "head0": 73,
+      "head1": 51,
+      "head2": 44,
+      "head3": 33
+    },
+    "magazine_ids": [
+      15,
+      19,
+      30
+    ],
+    "muzzle_ids": [
+      36
+    ]
+  },
+  {
+    "name": "Pan",
+    "id": 15,
+    "type": "Melee",
+    "image_url": "Icon_weapon_Pan.png",
+    "rate": 0,
+    "capacity": 120,
+    "damage": {
+      "base": 0,
+      "chest0": 0,
+      "chest1": 0,
+      "chest2": 0,
+      "chest3": 0,
+      "head0": 0,
+      "head1": 0,
+      "head2": 0,
+      "head3": 0
+    }
+  },
+  {
+    "name": "R1895",
+    "id": 16,
+    "type": "Pistol",
+    "image_url": "Icon_weapon_R1895.png",
+    "magazine_size": 5,
+    "ammo_id": 4,
+    "range": 31,
+    "stability": 29,
+    "rate": 11,
+    "reload": 0,
+    "capacity": 100,
+    "damage": {
+      "base": 23,
+      "chest0": 46,
+      "chest1": 32,
+      "chest2": 28,
+      "chest3": 21,
+      "head0": 115,
+      "head1": 81,
+      "head2": 69,
+      "head3": 52
+    },
+    "muzzle_ids": [
+      36
+    ]
+  },
+  {
+    "name": "S12K",
+    "id": 17,
+    "type": "Shotgun",
+    "image_url": "Icon_weapon_S12K.png",
+    "magazine_size": 5,
+    "ammo_id": 2,
+    "range": 9,
+    "stability": 86,
+    "rate": 15,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 999,
+      "chest0": 999,
+      "chest1": 999,
+      "chest2": 999,
+      "chest3": 999,
+      "head0": 999,
+      "head1": 999,
+      "head2": 999,
+      "head3": 999
+    },
+    "magazine_ids": [
+      13,
+      18,
+      27
+    ],
+    "muzzle_ids": [
+      9,
+      22,
+      35
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "S1897",
+    "id": 18,
+    "type": "Shotgun",
+    "image_url": "Icon_weapon_S1897.png",
+    "magazine_size": 2,
+    "ammo_id": 2,
+    "range": 8,
+    "stability": 77,
+    "rate": 8,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 999,
+      "chest0": 999,
+      "chest1": 999,
+      "chest2": 999,
+      "chest3": 999,
+      "head0": 999,
+      "head1": 999,
+      "head2": 999,
+      "head3": 999
+    },
+    "loop_ids": [
+      6
+    ],
+    "muzzle_ids": [
+      8
+    ]
+  },
+  {
+    "name": "S686",
+    "id": 19,
+    "type": "Shotgun",
+    "image_url": "Icon_weapon_S686.png",
+    "magazine_size": 5,
+    "ammo_id": 2,
+    "range": 13,
+    "stability": 77,
+    "rate": 7,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 999,
+      "chest0": 999,
+      "chest1": 999,
+      "chest2": 999,
+      "chest3": 999,
+      "head0": 999,
+      "head1": 999,
+      "head2": 999,
+      "head3": 999
+    },
+    "loop_ids": [
+      6
+    ],
+    "muzzle_ids": [
+      8
+    ]
+  },
+  {
+    "name": "SCAR-L",
+    "id": 20,
+    "type": "AssaultRifle",
+    "image_url": "Icon_weapon_SCAR-L.png",
+    "magazine_size": 30,
+    "ammo_id": 3,
+    "range": 55,
+    "stability": 31,
+    "rate": 71,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 21,
+      "chest0": 41,
+      "chest1": 29,
+      "chest2": 25,
+      "chest3": 18,
+      "head0": 103,
+      "head1": 72,
+      "head2": 62,
+      "head3": 46
+    },
+    "magazine_ids": [
+      13,
+      18,
+      27
+    ],
+    "muzzle_ids": [
+      9,
+      22,
+      35
+    ],
+    "grip_ids": [
+      4,
+      40
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "Sickle",
+    "id": 21,
+    "type": "Melee",
+    "image_url": "Icon_weapon_Sickle.png",
+    "rate": 0,
+    "capacity": 120,
+    "damage": {
+      "base": 0,
+      "chest0": 0,
+      "chest1": 0,
+      "chest2": 0,
+      "chest3": 0,
+      "head0": 0,
+      "head1": 0,
+      "head2": 0,
+      "head3": 0
+    }
+  },
+  {
+    "name": "SKS",
+    "id": 22,
+    "type": "DMR",
+    "image_url": "Icon_weapon_SKS.png",
+    "magazine_size": 5,
+    "ammo_id": 4,
+    "range": 64,
+    "stability": 48,
+    "rate": 32,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 28,
+      "chest0": 55,
+      "chest1": 39,
+      "chest2": 33,
+      "chest3": 25,
+      "head0": 138,
+      "head1": 96,
+      "head2": 83,
+      "head3": 62
+    },
+    "magazine_ids": [
+      17,
+      20,
+      32
+    ],
+    "muzzle_ids": [
+      10,
+      24,
+      38
+    ],
+    "sight_ids": [
+      0,
+      1,
+      2,
+      3,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "Smoke Grenade",
+    "id": 23,
+    "type": "Grenade",
+    "image_url": "Icon_weapon_SmokeGrenade.png",
+    "capacity": 16,
+    "damage": {
+      "base": 0
+    }
+  },
+  {
+    "name": "Stun Grenade",
+    "id": 24,
+    "type": "Grenade",
+    "image_url": "Icon_weapon_StunGrenade.png",
+    "capacity": 14,
+    "damage": {
+      "base": 0
+    }
+  },
+  {
+    "name": "Tommy Gun",
+    "id": 25,
+    "type": "SMG",
+    "image_url": "Icon_weapon_TommyGun.png",
+    "magazine_size": 30,
+    "ammo_id": 1,
+    "range": 46,
+    "stability": 31,
+    "rate": 100,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 19,
+      "chest0": 38,
+      "chest1": 27,
+      "chest2": 23,
+      "chest3": 17,
+      "head0": 95,
+      "head1": 67,
+      "head2": 57,
+      "head3": 43
+    },
+    "magazine_ids": [
+      16,
+      21,
+      31
+    ],
+    "muzzle_ids": [
+      23,
+      37
+    ]
+  },
+  {
+    "name": "UMP9",
+    "id": 26,
+    "type": "SMG",
+    "image_url": "Icon_weapon_UMP.png",
+    "magazine_size": 30,
+    "ammo_id": 5,
+    "range": 30,
+    "stability": 31,
+    "rate": 62,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": "17",
+      "chest0": "33",
+      "chest1": "23",
+      "chest2": "20",
+      "chest3": "15",
+      "head0": "83",
+      "head1": "58",
+      "head2": "50",
+      "head3": "37"
+    },
+    "grip_ids": [
+      4,
+      40
+    ],
+    "magazine_ids": [
+      16,
+      21,
+      31
+    ],
+    "muzzle_ids": [
+      23,
+      37
+    ],
+    "sight_ids": [
+      1,
+      2,
+      26,
+      33
+    ]
+  },
+  {
+    "name": "Vector",
+    "id": 27,
+    "type": "SMG",
+    "image_url": "Icon_weapon_Vector.png",
+    "magazine_size": 13,
+    "ammo_id": 1,
+    "range": 65,
+    "stability": 35,
+    "rate": 0,
+    "reload": 0,
+    "capacity": 500,
+    "damage": {
+      "base": 18,
+      "chest0": 36,
+      "chest1": 25,
+      "chest2": 22,
+      "chest3": 16,
+      "head0": 90,
+      "head1": 63,
+      "head2": 54,
+      "head3": 41
+    },
+    "grip_ids": [
+      4,
+      40
+    ],
+    "magazine_ids": [
+      16,
+      21,
+      31
+    ],
+    "muzzle_ids": [
+      23,
+      37
+    ],
+    "sight_ids": [
+      1,
+      2,
+      26,
+      33
+    ]
+  }
+]
+
