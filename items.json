@@ -6,7 +6,7 @@
           "name": "AKM",
           "id": 0,
           "type": "AssaultRifle",
-          "image_url": "Icon_weapon_AKM.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_AK47_C.png",
           "magazine_size": 30,
           "ammo_id": 4,
           "range": 60,
@@ -48,7 +48,7 @@
           "name": "AWM",
           "id": 1,
           "type": "SniperRifle",
-          "image_url": "Icon_weapon_AWM.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_AWM_C.png",
           "magazine_size": 5,
           "ammo_id": 0,
           "range": 100,
@@ -93,7 +93,7 @@
           "name": "Crossbow",
           "id": 2,
           "type": "Crossbow",
-          "image_url": "Icon_weapon_Crossbow.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_Crossbow_C.png",
           "magazine_size": 1,
           "ammo_id": 6,
           "range": 4,
@@ -129,7 +129,7 @@
           "name": "Crowbar",
           "id": 3,
           "type": "Melee",
-          "image_url": "Icon_weapon_Crowbar.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Melee/Item_Weapon_Cowbar_C.png",
           "rate": 0,
           "capacity": 120,
           "damage": {
@@ -148,7 +148,7 @@
           "name": "Frag Grenade",
           "id": 4,
           "type": "Grenade",
-          "image_url": "Icon_weapon_FragGrenade.png",
+          "image_url": "Ihttps://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Equipment/Throwable/Item_Weapon_Grenade_C.png",
           "capacity": 12,
           "damage": {
             "base": 0
@@ -158,7 +158,7 @@
           "name": "Karabiner 98 Kurz",
           "id": 5,
           "type": "SniperRifle",
-          "image_url": "Icon_weapon_Kar98k.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_Kar98k_C.png",
           "magazine_size": 5,
           "ammo_id": 4,
           "range": 79,
@@ -198,7 +198,7 @@
           "name": "M16A4",
           "id": 6,
           "type": "AssaultRifle",
-          "image_url": "Icon_weapon_M16A4.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_M16A4_C.png",
           "magazine_size": 30,
           "ammo_id": 3,
           "range": 62,
@@ -240,7 +240,7 @@
           "name": "M24",
           "id": 7,
           "type": "SniperRifle",
-          "image_url": "Icon_weapon_M24.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_M24_C.png",
           "magazine_size": 5,
           "ammo_id": 4,
           "range": 96,
@@ -285,7 +285,7 @@
           "name": "M249",
           "id": 8,
           "type": "LMG",
-          "image_url": "Icon_weapon_M249.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_M249_C.png",
           "magazine_size": 100,
           "ammo_id": 3,
           "range": 71,
@@ -366,7 +366,7 @@
           "name": "Machete",
           "id": 10,
           "type": "Melee",
-          "image_url": "Icon_weapon_Machete.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Melee/Item_Weapon_Machete_C.png",
           "rate": 0,
           "capacity": 120,
           "damage": {
@@ -385,7 +385,7 @@
           "name": "Micro Uzi",
           "id": 11,
           "type": "SMG",
-          "image_url": "Icon_weapon_UZI.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_UZI_C.png",
           "magazine_size": 30,
           "ammo_id": 5,
           "range": 22,
@@ -421,7 +421,7 @@
           "name": "Molotov Cocktail",
           "id": 12,
           "type": "Grenade",
-          "image_url": "Icon_weapon_Molotov.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Equipment/Throwable/Item_Weapon_Molotov_C.png",
           "range": 0,
           "capacity": 18,
           "damage": {
@@ -432,7 +432,7 @@
           "name": "P1911",
           "id": 13,
           "type": "Pistol",
-          "image_url": "Icon_weapon_P1911.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Handgun/Item_Weapon_M1911_C.png",
           "magazine_size": 7,
           "ammo_id": 1,
           "range": 15,
@@ -464,7 +464,7 @@
           "name": "P92",
           "id": 14,
           "type": "Pistol",
-          "image_url": "Icon_weapon_P92.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Handgun/Item_Weapon_M1911_C.png",
           "magazine_size": 15,
           "ammo_id": 5,
           "range": 15,
@@ -496,7 +496,7 @@
           "name": "Pan",
           "id": 15,
           "type": "Melee",
-          "image_url": "Icon_weapon_Pan.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Melee/Item_Weapon_Pan_C.png",
           "rate": 0,
           "capacity": 120,
           "damage": {
@@ -515,7 +515,7 @@
           "name": "R1895",
           "id": 16,
           "type": "Pistol",
-          "image_url": "Icon_weapon_R1895.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Handgun/Item_Weapon_NagantM1895_C.png",
           "magazine_size": 5,
           "ammo_id": 4,
           "range": 31,
@@ -542,7 +542,7 @@
           "name": "S12K",
           "id": 17,
           "type": "Shotgun",
-          "image_url": "Icon_weapon_S12K.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_Saiga12_C.png",
           "magazine_size": 5,
           "ammo_id": 2,
           "range": 9,
@@ -644,7 +644,7 @@
           "name": "SCAR-L",
           "id": 20,
           "type": "AssaultRifle",
-          "image_url": "Icon_weapon_SCAR-L.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_SCAR-L_C.png",
           "magazine_size": 30,
           "ammo_id": 3,
           "range": 55,
@@ -690,7 +690,7 @@
           "name": "Sickle",
           "id": 21,
           "type": "Melee",
-          "image_url": "Icon_weapon_Sickle.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Melee/Item_Weapon_Sickle_C.png",
           "rate": 0,
           "capacity": 120,
           "damage": {
@@ -709,7 +709,7 @@
           "name": "SKS",
           "id": 22,
           "type": "DMR",
-          "image_url": "Icon_weapon_SKS.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_SKS_C.png",
           "magazine_size": 5,
           "ammo_id": 4,
           "range": 64,
@@ -751,7 +751,7 @@
           "name": "Smoke Grenade",
           "id": 23,
           "type": "Grenade",
-          "image_url": "Icon_weapon_SmokeGrenade.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Equipment/Throwable/Item_Weapon_SmokeBomb_C.png",
           "capacity": 16,
           "damage": {
             "base": 0
@@ -761,7 +761,7 @@
           "name": "Stun Grenade",
           "id": 24,
           "type": "Grenade",
-          "image_url": "Icon_weapon_StunGrenade.png",
+          "image_url": "https://github.com/Ashutoshwahane/api-assets/blob/master/Assets/Item/Equipment/Throwable/Item_Weapon_FlashBang_C.png",
           "capacity": 14,
           "damage": {
             "base": 0
@@ -771,7 +771,7 @@
           "name": "Tommy Gun",
           "id": 25,
           "type": "SMG",
-          "image_url": "Icon_weapon_TommyGun.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_Thompson_C.png",
           "magazine_size": 30,
           "ammo_id": 1,
           "range": 46,
@@ -804,7 +804,7 @@
           "name": "UMP9",
           "id": 26,
           "type": "SMG",
-          "image_url": "Icon_weapon_UMP.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_UMP_C.png",
           "magazine_size": 30,
           "ammo_id": 5,
           "range": 30,
@@ -847,7 +847,7 @@
           "name": "Vector",
           "id": 27,
           "type": "SMG",
-          "image_url": "Icon_weapon_Vector.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Weapon/Main/Item_Weapon_Vector_C.png",
           "magazine_size": 13,
           "ammo_id": 1,
           "range": 65,
@@ -893,43 +893,43 @@
         {
           "id": 0,
           "name": ".300 Magnum",
-          "image_url": "Icon_ammo_300Magnum.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_300Magnum_C.png",
           "capacity": 0
         },
         {
           "id": 1,
           "name": ".45 ACP",
-          "image_url": "Icon_ammo_45ACP.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_45ACP_C.png",
           "capacity": 0.4
         },
         {
           "id": 2,
           "name": "12 Gauge",
-          "image_url": "Icon_ammo_12Guage.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_12Guage_C.png",
           "capacity": 1.25
         },
         {
           "id": 3,
           "name": "5.56mm",
-          "image_url": "Icon_ammo_556mm.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_556mm_C.png",
           "capacity": 0.5
         },
         {
           "id": 4,
           "name": "7.62mm",
-          "image_url": "Icon_ammo_762mm.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_762mm_C.png",
           "capacity": 0.7
         },
         {
           "id": 5,
           "name": "9mm",
-          "image_url": "Icon_ammo_9mm.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_9mm_C.png",
           "capacity": 0.375
         },
         {
           "id": 6,
           "name": "Bolt",
-          "image_url": "Icon_ammo_bolt.png",
+          "image_url": "https://raw.githubusercontent.com/Ashutoshwahane/api-assets/master/Assets/Item/Ammunition/None/Item_Ammo_Bolt_C.png",
           "capacity": 0
         }
       ]
@@ -1595,4 +1595,5 @@
     }
   }
 }
+
 
