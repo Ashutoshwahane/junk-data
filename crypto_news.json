@@ -1,289 +1,585 @@
 {
-    "data": [
-        {
-            "news_url": "https://www.coindesk.com/tv/first-mover/first-mover-july-28-2021",
-            "image_url": "https://crypto.snapi.dev/images/v1/h/r/cdtv-cover-fe193c4b69d0af1589e75d7e058127fe-45919.jpg",
-            "title": "Hester Peirce on SEC's Response to Sen. Warren, Congressional Bitcoin Bashing, Stablecoins and More",
-            "text": "What to make of all the anti-crypto claims and concerns being voiced by U.S. lawmakers this week? U.S. Securities and Exchange Commission (SEC) Commissioner Hester Peirce joins \"First Mover\" to discuss her views as the SEC faces Sen.",
-            "source_name": "Coindesk",
-            "date": "Wed, 28 Jul 2021 09:45:12 -0400",
-            "topics": [
-                "stablecoins",
-                "regulations"
-            ],
-            "sentiment": "Negative",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://decrypt.co/77029/bitcoin-returns-40000-despite-wave-regulatory-attention",
-            "image_url": "https://crypto.snapi.dev/images/v1/r/k/bitcoin-king-chess-gid-4-45823.jpeg",
-            "title": "Bitcoin Returns to $40,000 Despite Wave of Regulatory Attention",
-            "text": "The leading cryptocurrency has again breached a key price threshold, even as regulators renew their focus on the crypto industry.",
-            "source_name": "Decrypt",
-            "date": "Wed, 28 Jul 2021 06:10:00 -0400",
-            "topics": [
-                "regulations"
-            ],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.coindesk.com/bitcoin-returns-near-40k-resistance-support-at-36k",
-            "image_url": "https://crypto.snapi.dev/images/v1/5/s/btc-750x500-45721-45838.jpg",
-            "title": "Bitcoin Returns Near $40K Resistance; Support at $36K",
-            "text": "Lower support near $36K could stabilize a pullback.",
-            "source_name": "Coindesk",
-            "date": "Wed, 28 Jul 2021 07:19:12 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://cointelegraph.com/news/bitcoin-price-is-returning-to-40k-but-will-shorts-have-their-revenge",
-            "image_url": "https://crypto.snapi.dev/images/v1/w/x/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvnjezyju2mmmtnzyxzs00ywewltkzodatzwzjnty4mwmwmzk4lmpwzw-45813.jpg",
-            "title": "Bitcoin price is returning to $40K — But will shorts have their revenge?",
-            "text": "An analyst promises an \"interesting few days\" as volatility firmly reenters the Bitcoin market and sentiment transforms.",
-            "source_name": "Cointelegraph",
-            "date": "Wed, 28 Jul 2021 05:43:13 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://cointelegraph.com/news/bitcoin-tries-to-break-40k-second-time-in-two-days",
-            "image_url": "https://crypto.snapi.dev/images/v1/g/h/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvyzu2zthkntmtnzu5os00mzvilwe2zdgtzwy4nzyxnddkmtm5lmpwzw-45783.jpg",
-            "title": "Bitcoin tries to break $40K second time in two days",
-            "text": "After six weeks pacing between $30,000 and $36,000, BTC price is now hovering around $40,000 resistance once again in two days.",
-            "source_name": "Cointelegraph",
-            "date": "Wed, 28 Jul 2021 02:56:09 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://beincrypto.com/bitcoin-btc-makes-attempt-breaking-range-highs/",
-            "image_url": "https://crypto.snapi.dev/images/v1/u/g/bic-artwork-general-btc-2-45777.jpg",
-            "title": "Bitcoin (BTC) Makes Another Attempt At Breaking Above Range Highs",
-            "text": "After being rejected on June 26, Bitcoin (BTC) is now making another attempt at breaking out above the $40,550 resistance area. The post Bitcoin (BTC) Makes Another Attempt At Breaking Above Range Highs appeared first on BeInCrypto.",
-            "source_name": "BeInCrypto",
-            "date": "Wed, 28 Jul 2021 02:31:59 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.youtube.com/watch?v=jRUMB56umJU",
-            "image_url": "https://crypto.snapi.dev/images/v1/5/i/bitcoin-is-not-a-currency-its-an-asset-wwf-president-45907.jpg",
-            "title": "Bitcoin is not a currency it's an asset: WWF president",
-            "text": "#bitcoin #cryptocurrencies #crypto WWF International President Pavan Sukhdev joins 'Influencers with Andy Serwer' to discuss the environmental impact of cryptocurrencies like Bitcoin. Watch the 2021 Berkshire Hathaway Annual Shareholders Meeting on YouTube: https://youtu.be/gx-OzwHpM9k Subscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb About Yahoo Finance: At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
-            "source_name": "Yahoo Finance",
-            "date": "Wed, 28 Jul 2021 09:48:39 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Video",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://u.today/3-significant-causes-pushing-bitcoin-price-above-40k-this-week",
-            "image_url": "https://crypto.snapi.dev/images/v1/c/d/8832-1-45802.jpg",
-            "title": "3 Significant Causes Pushing Bitcoin Price Above 40K This Week",
-            "text": "According to Santiment, news from Amazon and Tether have affected the price of Bitcoin",
-            "source_name": "UToday",
-            "date": "Wed, 28 Jul 2021 04:45:00 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://u.today/bitcoins-been-rising-for-over-week-longest-bullish-movement-this-year",
-            "image_url": "https://crypto.snapi.dev/images/v1/x/a/8841-45814.jpg",
-            "title": "Bitcoin's Been Rising for Over Week – Longest Bullish Movement This Year",
-            "text": "The long recovery Bitcoin has been showing in the past week is the longest consecutive recovery it has seen this year; the recent analytics data shows why it is happening",
-            "source_name": "UToday",
-            "date": "Wed, 28 Jul 2021 05:47:00 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.coindesk.com/bitcoin-rewards-site-lolli-raises-10m-eyes-gaming-sector-for-growth",
-            "image_url": "https://crypto.snapi.dev/images/v1/a/o/shutterstock-31632883-e1499744095104-45892.jpg",
-            "title": "Bitcoin Rewards Site Lolli Raises $10M, Eyes Gaming Sector for Growth",
-            "text": "Influencers from Logan Paul to Up North Media participated in the Series A.",
-            "source_name": "Coindesk",
-            "date": "Wed, 28 Jul 2021 09:04:12 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://u.today/bitcoin-dominance-inches-closer-to-50-percent-as-btc-revisits-40k",
-            "image_url": "https://crypto.snapi.dev/images/v1/q/x/adobestock-175097029-45767.jpeg",
-            "title": "Bitcoin Dominance Inches Closer to 50 Percent as BTC Revisits $40K",
-            "text": "Bitcoin dominance has spiked to the highest level since early May",
-            "source_name": "UToday",
-            "date": "Wed, 28 Jul 2021 01:05:00 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/07/22199794/bitcoin-revs-up-to-resistance-could-it-be-ready-to-break-out-this-time",
-            "image_url": "https://crypto.snapi.dev/images/v1/l/m/bitcoin-3024279-1920-46-45933.jpg",
-            "title": "Bitcoin Revs Up To Resistance: Could It Be Ready To Break Out This Time?",
-            "text": "Bitcoin (CRYPTO: BTC) has seen a run higher the last week or so and looks to have moved up to resistance Wednesday. Bitcoin still sits at the highest market cap cryptocurrency and continues to be the dominant force in the crypto market.",
-            "source_name": "Benzinga",
-            "date": "Wed, 28 Jul 2021 11:28:56 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/07/22200214/is-bitcoin-btc-safe-from-grovers-algorithm",
-            "image_url": "https://crypto.snapi.dev/images/v1/r/o/banner-4-0-45929.jpg",
-            "title": "Is Bitcoin (BTC) Safe from Grover's Algorithm?",
-            "text": "When crypto investors discuss quantum computing, they invariably worry about its potential to undermine encryption. Quantum computers alone do not pose such a mortal threat, however.",
-            "source_name": "Benzinga",
-            "date": "Wed, 28 Jul 2021 11:17:38 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://cointelegraph.com/news/bitcoin-fails-to-flip-40k-with-traders-eyeing-36k-or-lower-for-support",
-            "image_url": null,
-            "title": "Bitcoin fails to flip $40K with traders eyeing $36K or lower for support",
-            "text": "A welcome retracement should involve a bounce at a minimum of $32,500, forecasts assume after heavy resistance hits BTC/USD.",
-            "source_name": "Cointelegraph",
-            "date": "Wed, 28 Jul 2021 11:54:52 -0400",
-            "topics": [],
-            "sentiment": "Negative",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://cointelegraph.com/news/bitcoin-rewards-app-lolli-closes-10m-investment-round",
-            "image_url": "https://crypto.snapi.dev/images/v1/f/d/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvodi2n2eyytutmjm3ns00yzm3lwizytctnjnlyzexndhlmzyxlmpwzw-45939.jpg",
-            "title": "Bitcoin rewards app Lolli closes $10M investment round",
-            "text": "Acrew Capital, Lolli's primary backer during the raise, said the app is well positioned to boost Bitcoin adoption in the long run.",
-            "source_name": "Cointelegraph",
-            "date": "Wed, 28 Jul 2021 11:50:53 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://coingape.com/bitcoin-btc-shoots-8-closing-200-ema-45000-sight/",
-            "image_url": "https://crypto.snapi.dev/images/v1/v/z/bitcoin-btc-post-covid-crash-rally-45764.jpg",
-            "title": "Bitcoin (BTC) Shoots 8% Closing Above 200 EMA, $45,000 In Sight",
-            "text": "Bitcoin (BTC) is up 8% today making another attempt to move past its crucial resistance of $40,000. At press time, Bitcoin (BTC) is trading at a price of $39,828 with a market cap of $747.",
-            "source_name": "Coingape",
-            "date": "Wed, 28 Jul 2021 00:19:27 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-hits-40k-mike-mcglone-says-btc-price-is-likely-to-visit-the-60k-levels/",
-            "image_url": "https://crypto.snapi.dev/images/v1/o/c/crypto7-45787.jpg",
-            "title": "Bitcoin Price Hits $40k! Mike Mcglone says BTC Price is Likely to Visit the $60k levels!",
-            "text": "Bloomberg commodity strategist Mike McGlone has weighed in on Bitcoin's near-term prospects. According to him, Bitcoin Price is more likely to rise toward $60,000 rather than fall back below $20,000 in the near future.  McGlone wrote in a report that bitcoin's current consolidation above the $30,000 mark is similar to BTC's consolidation around $4,000 after …",
-            "source_name": "CoinPedia",
-            "date": "Wed, 28 Jul 2021 02:06:11 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-eyes-a-bullish-breakout/",
-            "image_url": "https://crypto.snapi.dev/images/v1/5/x/crypto9-45799.jpg",
-            "title": "Bitcoin Price Eyes a Bullish Breakout! This level is the Deciding Factor",
-            "text": "Bitcoin price has shown excellent resilience today as it is again back up to testing resistance at the $40000 level. BTC price has shredded gains and immediately regained the same all in just 24 hours. Amidst this volatility, it is crucial to know whether this uptrend will further validate a bull rally or not.  After …",
-            "source_name": "CoinPedia",
-            "date": "Wed, 28 Jul 2021 03:42:16 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://www.theblockcrypto.com/post/112757/bitcoin-rewards-provider-lolli-series-a-funding-acrew",
-            "image_url": "https://crypto.snapi.dev/images/v1/u/q/20210727-funding-lolli-800x450-45889.jpg",
-            "title": "Bitcoin rewards provider Lolli raises $10 million in Series A funding",
-            "text": "Bitcoin rewards provider Lolli has raised $10 million in a Series A funding round led by Acrew Capital. The post Bitcoin rewards provider Lolli raises $10 million in Series A funding appeared first on The Block.",
-            "source_name": "The Block",
-            "date": "Wed, 28 Jul 2021 09:00:50 -0400",
-            "topics": [],
-            "sentiment": "Positive",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        },
-        {
-            "news_url": "https://dailyhodl.com/2021/07/28/glassnode-looks-at-state-of-bitcoin-amid-extremely-quiet-on-chain-activity/",
-            "image_url": "https://crypto.snapi.dev/images/v1/s/f/examining-btcjpgfit10242c600ssl1-45810.jpg",
-            "title": "Glassnode Looks at State of Bitcoin Amid ‘Extremely Quiet' On-Chain Activity",
-            "text": "Blockchain analytics firm Glassnode is looking at the state of Bitcoin after the world's leading crypto by market cap launched a sudden rally starting over the weekend. In a new report, Glassnode says that one potentially bullish factor for Bitcoin is the growing number of wallet addresses receiving BTC, rather than sending it. “On the […] The post Glassnode Looks at State of Bitcoin Amid ‘Extremely Quiet' On-Chain Activity appeared first on The Daily Hodl.",
-            "source_name": "The Daily Hodl",
-            "date": "Wed, 28 Jul 2021 05:00:40 -0400",
-            "topics": [],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "tickers": [
-                "BTC"
-            ]
-        }
-    ]
+  "data": [
+    {
+      "news_url": "https://www.forbes.com/sites/stevenehrlich/2021/07/29/binanceus-stakes-independence-from-its-embattled-namesake/",
+      "image_url": "https://crypto.snapi.dev/images/v1/v/d/binanceus-stakes-independence-from-its-embattled-namesake-46319.jpg",
+      "title": "Binance.US Stakes Independence From Its Embattled Namesake",
+      "text": "Under a new CEO, Binance.US is taking concerted steps to step out from the shadow of Binance.com and grow its footprint in the US market.",
+      "source_name": "Forbes",
+      "date": "Thu, 29 Jul 2021 14:06:52 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/imf-intends-to-ramp-up-digital-currency-monitoring",
+      "image_url": "https://crypto.snapi.dev/images/v1/8/2/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvnde2mtcxzdatzgq3ms00ndm0lwe5ytetztu4ogfkytjkzjuylmpwzw-46316.jpg",
+      "title": "IMF intends to 'ramp up' digital currency monitoring",
+      "text": "The fund will greatly expand to cover all aspects of digital currency while also working with related financial institutions.",
+      "source_name": "Cointelegraph",
+      "date": "Thu, 29 Jul 2021 14:00:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.cryptopolitan.com/crypto-bank-cashaa-will-operate-in-india/",
+      "image_url": "https://crypto.snapi.dev/images/v1/b/n/pexels-croberin-photography-1422408-46325.jpg",
+      "title": "Crypto Bank Cashaa to operate in India and offer clients savings in crypto",
+      "text": "TL;DR Breakdown • Crypto Bank tries to create a unique FD and RD scheme in cryptocurrencies.• Regulations in India do not stop cryptocurrency bank operations.",
+      "source_name": "Cryptopolitan",
+      "date": "Thu, 29 Jul 2021 13:59:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.cryptopolitan.com/a-crypto-startup-received-a-25-million/",
+      "image_url": "https://crypto.snapi.dev/images/v1/p/e/pexels-startup-stock-photos-7070-46328.jpg",
+      "title": "A crypto startup has received a $25 million investment backed by Peter Thiel",
+      "text": "TL;DR Breakdown • Vauld receives $25 million to reach North America, Asia, and Europe.• The Crypto startup will take advantage of the financing to create an effective work team.",
+      "source_name": "Cryptopolitan",
+      "date": "Thu, 29 Jul 2021 13:49:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.cryptopolitan.com/influxo-launches-collection-ronaldinho/",
+      "image_url": "https://crypto.snapi.dev/images/v1/p/e/pexels-pixabay-47730-46327.jpg",
+      "title": "Influxo launches a collection featuring FIFA world player Ronaldinho",
+      "text": "TL;DR Breakdown • The Influxo auction will start with $20,000 in USDT.• The creative agency promises an extra collection of low-cost sports cards with raffles.",
+      "source_name": "Cryptopolitan",
+      "date": "Thu, 29 Jul 2021 13:31:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://dailyhodl.com/2021/07/29/senator-elizabeth-warren-says-crypto-puts-financial-system-at-mercy-of-faceless-super-coders/",
+      "image_url": "https://crypto.snapi.dev/images/v1/h/j/hj5532jpgfit10242c600ssl1-46318.jpg",
+      "title": "Senator Elizabeth Warren Says Crypto Puts Financial System at Mercy of ‘Faceless Super Coders'",
+      "text": "US Senator Elizabeth Warren (D-MA) says that decentralized cryptocurrencies are not “better” than the traditional financial system already in place. Speaking at a hearing entitled “Cryptocurrencies: What are they good for?” held by the Senate Committee on Banking, Housing, and Urban Affairs, Senator Warren says that decentralized cryptocurrencies are essentially transferring power from giant banks […] The post Senator Elizabeth Warren Says Crypto Puts Financial System at Mercy of ‘Faceless Super Coders' appeared first on The Daily Hodl.",
+      "source_name": "The Daily Hodl",
+      "date": "Thu, 29 Jul 2021 13:30:51 -0400",
+      "topics": [
+        "regulations"
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cryptobriefing.com/paypal-hints-may-use-interesting-defi-apps-future/",
+      "image_url": "https://crypto.snapi.dev/images/v1/p/a/paypal-hints-may-use-defi-cover-838x440-46317.png",
+      "title": "PayPal Hints it May Use“Interesting DeFi Apps” in Future",
+      "text": "The firm is also developing a new consumer wallet with additional crypto capabilities. ",
+      "source_name": "Crypto Briefing",
+      "date": "Thu, 29 Jul 2021 13:27:50 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://beincrypto.com/ftx-experiences-major-growth-with-record-trading-volume/",
+      "image_url": "https://crypto.snapi.dev/images/v1/b/i/bic-artwork-fundamentals-46301.jpg",
+      "title": "FTX Experiences Major Growth With Record Trading Volume",
+      "text": "Cryptocurrency Exchange FTX has been experiencing a period of strong growth and might threaten the biggest exchanges in the market. The post FTX Experiences Major Growth With Record Trading Volume appeared first on BeInCrypto.",
+      "source_name": "BeInCrypto",
+      "date": "Thu, 29 Jul 2021 13:10:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cryptobriefing.com/congress-fears-defi-financial-911-us-legislator/",
+      "image_url": "https://crypto.snapi.dev/images/v1/u/s/us-congress-fears-defi-911-cover-838x440-46299.png",
+      "title": "Congress Fears DeFi “Financial 9/11”: U.S. Legislator",
+      "text": "U.S. Representative Ted Budd said that some of his colleagues believe stablecoins and DeFi could lead to a financial equivalent of the September 11 attacks.",
+      "source_name": "Crypto Briefing",
+      "date": "Thu, 29 Jul 2021 13:02:26 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cryptoslate.com/us-senators-eye-the-crypto-market-for-potential-28-billion-in-tax-revenue/",
+      "image_url": "https://crypto.snapi.dev/images/v1/n/q/ussenate-crypto-tax-46293.jpg",
+      "title": "US senators eye the crypto market for potential $28 billion in tax revenue ",
+      "text": "US President Joe Biden and the bipartisan group announced the details of a historic $550 billion federal investment in the country's infrastructure as the Senate intends to tighten crypto taxes in order to raise $28 billion that would contribute to the funding, Bloomberg reported. The post US senators eye the crypto market for potential $28 billion in tax revenue  appeared first on CryptoSlate.",
+      "source_name": "CryptoSlate",
+      "date": "Thu, 29 Jul 2021 13:01:14 -0400",
+      "topics": [
+        "taxes"
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/algorithmic-stablecoins-show-promise-of-reducing-volatility-shapeshift",
+      "image_url": "https://crypto.snapi.dev/images/v1/g/h/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvodmwytm1odktmtm4ns00ntcxlwe1mjutmmexywe3zgzmymi5lmpwzw-46295.jpg",
+      "title": "Algorithmic stablecoins show promise of reducing volatility — ShapeShift",
+      "text": "“Stablecoin experimentation is happening in real-time with billions of dollars at stake in this vast permissionless lab we call DeFi,” reads a new research report from ShapeShift. The author focuses on the rise of algorithmic stablecoins and their potential use cases.",
+      "source_name": "Cointelegraph",
+      "date": "Thu, 29 Jul 2021 13:00:00 -0400",
+      "topics": [
+        "stablecoins"
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://beincrypto.com/btcd-breaks-out-but-could-be-nearing-top/",
+      "image_url": "https://crypto.snapi.dev/images/v1/b/i/bic-artwork-cryptocurrency-trading-bitcoin-beginners-1-1-46288.jpg",
+      "title": "BTCD Breaks Out but Could be Nearing Top",
+      "text": "The Bitcoin dominance rate (BTCD) has broken out from a descending resistance line. The post BTCD Breaks Out but Could be Nearing Top appeared first on BeInCrypto.",
+      "source_name": "BeInCrypto",
+      "date": "Thu, 29 Jul 2021 12:35:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://cryptopotato.com/cryptoassets-as-national-currency-is-risky-says-the-imf/",
+      "image_url": "https://crypto.snapi.dev/images/v1/i/m/imf-cover-46287.jpg",
+      "title": "Cryptoassets as National Currency Is Risky, Says The IMF",
+      "text": "The International Monetary Fund believes that virtual assets have a long way until they become suitable for national currencies.",
+      "source_name": "CryptoPotato",
+      "date": "Thu, 29 Jul 2021 12:25:21 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.forbes.com/sites/emilymason/2021/07/29/venerable-state-street-launches-digital-and-cryptocurrency-asset-support-services-for-institutional-clients/",
+      "image_url": "https://crypto.snapi.dev/images/v1/j/z/venerable-state-street-launches-digital-and-cryptocurrency-asset-support-services-for-institutional-clients-46263.jpg",
+      "title": "Venerable State Street Launches Digital And Cryptocurrency Asset Support Services For Institutional Clients",
+      "text": "Through a partnership with a trusted accounting firm and data provider, State Street is looking to make it easier for institutions to manage their digital asset investments.",
+      "source_name": "Forbes",
+      "date": "Thu, 29 Jul 2021 11:46:54 -0400",
+      "topics": [
+        "institutions"
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://decrypt.co/77143/paypal-earnings-digital-wallets-defi",
+      "image_url": "https://crypto.snapi.dev/images/v1/1/0/10484780034-8063f1f1d9-k-1-gid-5-46284.jpg",
+      "title": "PayPal CEO Touts Promise of Digital Wallets for Stimulus Payments",
+      "text": "PayPal CEO Dan Schulman raised the possibility of using digital wallets to distribute stimulus funds rather than the current slow and expensive banking system.",
+      "source_name": "Decrypt",
+      "date": "Thu, 29 Jul 2021 11:39:09 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://decrypt.co/77152/state-street-start-offering-crypto-services-private-fund-clients",
+      "image_url": "https://crypto.snapi.dev/images/v1/s/t/state-street-gid-1-46283.jpg",
+      "title": "State Street to Start Offering Crypto Services for Private-Fund Clients",
+      "text": "State Street, one of America's oldest banks, is expanding its crypto related services to the bank's private-fund clients.",
+      "source_name": "Decrypt",
+      "date": "Thu, 29 Jul 2021 11:36:21 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://news.bitcoin.com/new-jerseys-order-against-blockfi-extended-vermont-issues-notice-to-crypto-lender/",
+      "image_url": "https://crypto.snapi.dev/images/v1/s/h/shutterstock-1166055376-46282.jpg",
+      "title": "New Jersey's Order Against Blockfi Extended, Vermont Issues Notice to Crypto Lender",
+      "text": "On July 28, Zac Prince, the CEO of crypto finance firm Blockfi, explained that the company has been “engaged in a productive discourse” with U.S. regulators. Prince further said the New Jersey Bureau of Securities had extended the state's previous order to September 2. Meanwhile, the company also has issues with Vermont's Department of Financial […]",
+      "source_name": "Bitcoin",
+      "date": "Thu, 29 Jul 2021 11:30:58 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.cryptopolitan.com/ghana-vice-president-says-africa-lead-crypto/",
+      "image_url": "https://crypto.snapi.dev/images/v1/m/u/street-3644374-1920-1200x803-46259.jpg",
+      "title": "Ghana vice president calls on Africa to champion cryptocurrency",
+      "text": "TL;DR Breakdown Ghana vice president calls on Africa to champion cryptocurrency Says digitization preserved the economy during COVID-19 pandemic In another incredible development for the cryptocurrency industry, especially the African area, Ghana Vice President Dr. Mahamudu Bawumia has voiced support for the blockchain initiative calling for the continent to champion digital currency. Dr. Bawumia made […]",
+      "source_name": "Cryptopolitan",
+      "date": "Thu, 29 Jul 2021 11:26:06 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://invezz.com/news/2021/07/29/the-israeli-government-mulls-tracking-crypto-holdings-worth-over-61k/",
+      "image_url": "https://crypto.snapi.dev/images/v1/i/s/israel-monitor-crypto-46281.jpg",
+      "title": "The Israeli government mulls tracking crypto holdings worth over $61K",
+      "text": "Israel's government is bolstering its strategies in the fight against tax evasion and money laundering. A report unveiled this news earlier today, citing a new draft bill published by the country's Finance Ministry. Reportedly, the draft highlights measures that the government should implement to better combat black capital. Among the proposed actions is putting crypto […] The post The Israeli government mulls tracking crypto holdings worth over $61K appeared first on Invezz.",
+      "source_name": "Invezz",
+      "date": "Thu, 29 Jul 2021 11:14:59 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Negative",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.financemagnates.com/cryptocurrency/news/german-court-no-3rd-party-confiscation-for-crypto-exchanges/",
+      "image_url": "https://crypto.snapi.dev/images/v1/v/r/germany-crypto-46254.jpg",
+      "title": "German Court: No 3rd Party Confiscation for Crypto Exchanges",
+      "text": "Dr Philipp Gehrmann and Dr Arne Klaas classify the legal background and effects of active German crypto exchanges.",
+      "source_name": "FinanceMagnates",
+      "date": "Thu, 29 Jul 2021 11:03:10 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article"
+    },
+    {
+      "news_url": "https://www.coindesk.com/tv/first-mover/first-mover-july-28-2021",
+      "image_url": "https://crypto.snapi.dev/images/v1/h/r/cdtv-cover-fe193c4b69d0af1589e75d7e058127fe-45919.jpg",
+      "title": "Hester Peirce on SEC's Response to Sen. Warren, Congressional Bitcoin Bashing, Stablecoins and More",
+      "text": "What to make of all the anti-crypto claims and concerns being voiced by U.S. lawmakers this week? U.S. Securities and Exchange Commission (SEC) Commissioner Hester Peirce joins \"First Mover\" to discuss her views as the SEC faces Sen.",
+      "source_name": "Coindesk",
+      "date": "Wed, 28 Jul 2021 09:45:12 -0400",
+      "topics": [
+        "stablecoins",
+        "regulations"
+      ],
+      "sentiment": "Negative",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://decrypt.co/77029/bitcoin-returns-40000-despite-wave-regulatory-attention",
+      "image_url": "https://crypto.snapi.dev/images/v1/r/k/bitcoin-king-chess-gid-4-45823.jpeg",
+      "title": "Bitcoin Returns to $40,000 Despite Wave of Regulatory Attention",
+      "text": "The leading cryptocurrency has again breached a key price threshold, even as regulators renew their focus on the crypto industry.",
+      "source_name": "Decrypt",
+      "date": "Wed, 28 Jul 2021 06:10:00 -0400",
+      "topics": [
+        "regulations"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.coindesk.com/bitcoin-returns-near-40k-resistance-support-at-36k",
+      "image_url": "https://crypto.snapi.dev/images/v1/5/s/btc-750x500-45721-45838.jpg",
+      "title": "Bitcoin Returns Near $40K Resistance; Support at $36K",
+      "text": "Lower support near $36K could stabilize a pullback.",
+      "source_name": "Coindesk",
+      "date": "Wed, 28 Jul 2021 07:19:12 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/bitcoin-price-is-returning-to-40k-but-will-shorts-have-their-revenge",
+      "image_url": "https://crypto.snapi.dev/images/v1/w/x/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvnjezyju2mmmtnzyxzs00ywewltkzodatzwzjnty4mwmwmzk4lmpwzw-45813.jpg",
+      "title": "Bitcoin price is returning to $40K — But will shorts have their revenge?",
+      "text": "An analyst promises an \"interesting few days\" as volatility firmly reenters the Bitcoin market and sentiment transforms.",
+      "source_name": "Cointelegraph",
+      "date": "Wed, 28 Jul 2021 05:43:13 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/bitcoin-tries-to-break-40k-second-time-in-two-days",
+      "image_url": "https://crypto.snapi.dev/images/v1/g/h/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvyzu2zthkntmtnzu5os00mzvilwe2zdgtzwy4nzyxnddkmtm5lmpwzw-45783.jpg",
+      "title": "Bitcoin tries to break $40K second time in two days",
+      "text": "After six weeks pacing between $30,000 and $36,000, BTC price is now hovering around $40,000 resistance once again in two days.",
+      "source_name": "Cointelegraph",
+      "date": "Wed, 28 Jul 2021 02:56:09 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://beincrypto.com/bitcoin-btc-makes-attempt-breaking-range-highs/",
+      "image_url": "https://crypto.snapi.dev/images/v1/u/g/bic-artwork-general-btc-2-45777.jpg",
+      "title": "Bitcoin (BTC) Makes Another Attempt At Breaking Above Range Highs",
+      "text": "After being rejected on June 26, Bitcoin (BTC) is now making another attempt at breaking out above the $40,550 resistance area. The post Bitcoin (BTC) Makes Another Attempt At Breaking Above Range Highs appeared first on BeInCrypto.",
+      "source_name": "BeInCrypto",
+      "date": "Wed, 28 Jul 2021 02:31:59 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.youtube.com/watch?v=jRUMB56umJU",
+      "image_url": "https://crypto.snapi.dev/images/v1/5/i/bitcoin-is-not-a-currency-its-an-asset-wwf-president-45907.jpg",
+      "title": "Bitcoin is not a currency it's an asset: WWF president",
+      "text": "#bitcoin #cryptocurrencies #crypto WWF International President Pavan Sukhdev joins 'Influencers with Andy Serwer' to discuss the environmental impact of cryptocurrencies like Bitcoin. Watch the 2021 Berkshire Hathaway Annual Shareholders Meeting on YouTube: https://youtu.be/gx-OzwHpM9k Subscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb About Yahoo Finance: At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "source_name": "Yahoo Finance",
+      "date": "Wed, 28 Jul 2021 09:48:39 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Video",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://u.today/3-significant-causes-pushing-bitcoin-price-above-40k-this-week",
+      "image_url": "https://crypto.snapi.dev/images/v1/c/d/8832-1-45802.jpg",
+      "title": "3 Significant Causes Pushing Bitcoin Price Above 40K This Week",
+      "text": "According to Santiment, news from Amazon and Tether have affected the price of Bitcoin",
+      "source_name": "UToday",
+      "date": "Wed, 28 Jul 2021 04:45:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://u.today/bitcoins-been-rising-for-over-week-longest-bullish-movement-this-year",
+      "image_url": "https://crypto.snapi.dev/images/v1/x/a/8841-45814.jpg",
+      "title": "Bitcoin's Been Rising for Over Week – Longest Bullish Movement This Year",
+      "text": "The long recovery Bitcoin has been showing in the past week is the longest consecutive recovery it has seen this year; the recent analytics data shows why it is happening",
+      "source_name": "UToday",
+      "date": "Wed, 28 Jul 2021 05:47:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.coindesk.com/bitcoin-rewards-site-lolli-raises-10m-eyes-gaming-sector-for-growth",
+      "image_url": "https://crypto.snapi.dev/images/v1/a/o/shutterstock-31632883-e1499744095104-45892.jpg",
+      "title": "Bitcoin Rewards Site Lolli Raises $10M, Eyes Gaming Sector for Growth",
+      "text": "Influencers from Logan Paul to Up North Media participated in the Series A.",
+      "source_name": "Coindesk",
+      "date": "Wed, 28 Jul 2021 09:04:12 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://u.today/bitcoin-dominance-inches-closer-to-50-percent-as-btc-revisits-40k",
+      "image_url": "https://crypto.snapi.dev/images/v1/q/x/adobestock-175097029-45767.jpeg",
+      "title": "Bitcoin Dominance Inches Closer to 50 Percent as BTC Revisits $40K",
+      "text": "Bitcoin dominance has spiked to the highest level since early May",
+      "source_name": "UToday",
+      "date": "Wed, 28 Jul 2021 01:05:00 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/07/22199794/bitcoin-revs-up-to-resistance-could-it-be-ready-to-break-out-this-time",
+      "image_url": "https://crypto.snapi.dev/images/v1/l/m/bitcoin-3024279-1920-46-45933.jpg",
+      "title": "Bitcoin Revs Up To Resistance: Could It Be Ready To Break Out This Time?",
+      "text": "Bitcoin (CRYPTO: BTC) has seen a run higher the last week or so and looks to have moved up to resistance Wednesday. Bitcoin still sits at the highest market cap cryptocurrency and continues to be the dominant force in the crypto market.",
+      "source_name": "Benzinga",
+      "date": "Wed, 28 Jul 2021 11:28:56 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/07/22200214/is-bitcoin-btc-safe-from-grovers-algorithm",
+      "image_url": "https://crypto.snapi.dev/images/v1/r/o/banner-4-0-45929.jpg",
+      "title": "Is Bitcoin (BTC) Safe from Grover's Algorithm?",
+      "text": "When crypto investors discuss quantum computing, they invariably worry about its potential to undermine encryption. Quantum computers alone do not pose such a mortal threat, however.",
+      "source_name": "Benzinga",
+      "date": "Wed, 28 Jul 2021 11:17:38 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/bitcoin-fails-to-flip-40k-with-traders-eyeing-36k-or-lower-for-support",
+      "image_url": null,
+      "title": "Bitcoin fails to flip $40K with traders eyeing $36K or lower for support",
+      "text": "A welcome retracement should involve a bounce at a minimum of $32,500, forecasts assume after heavy resistance hits BTC/USD.",
+      "source_name": "Cointelegraph",
+      "date": "Wed, 28 Jul 2021 11:54:52 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Negative",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://cointelegraph.com/news/bitcoin-rewards-app-lolli-closes-10m-investment-round",
+      "image_url": "https://crypto.snapi.dev/images/v1/f/d/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdcvodi2n2eyytutmjm3ns00yzm3lwizytctnjnlyzexndhlmzyxlmpwzw-45939.jpg",
+      "title": "Bitcoin rewards app Lolli closes $10M investment round",
+      "text": "Acrew Capital, Lolli's primary backer during the raise, said the app is well positioned to boost Bitcoin adoption in the long run.",
+      "source_name": "Cointelegraph",
+      "date": "Wed, 28 Jul 2021 11:50:53 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://coingape.com/bitcoin-btc-shoots-8-closing-200-ema-45000-sight/",
+      "image_url": "https://crypto.snapi.dev/images/v1/v/z/bitcoin-btc-post-covid-crash-rally-45764.jpg",
+      "title": "Bitcoin (BTC) Shoots 8% Closing Above 200 EMA, $45,000 In Sight",
+      "text": "Bitcoin (BTC) is up 8% today making another attempt to move past its crucial resistance of $40,000. At press time, Bitcoin (BTC) is trading at a price of $39,828 with a market cap of $747.",
+      "source_name": "Coingape",
+      "date": "Wed, 28 Jul 2021 00:19:27 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-hits-40k-mike-mcglone-says-btc-price-is-likely-to-visit-the-60k-levels/",
+      "image_url": "https://crypto.snapi.dev/images/v1/o/c/crypto7-45787.jpg",
+      "title": "Bitcoin Price Hits $40k! Mike Mcglone says BTC Price is Likely to Visit the $60k levels!",
+      "text": "Bloomberg commodity strategist Mike McGlone has weighed in on Bitcoin's near-term prospects. According to him, Bitcoin Price is more likely to rise toward $60,000 rather than fall back below $20,000 in the near future.  McGlone wrote in a report that bitcoin's current consolidation above the $30,000 mark is similar to BTC's consolidation around $4,000 after …",
+      "source_name": "CoinPedia",
+      "date": "Wed, 28 Jul 2021 02:06:11 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-eyes-a-bullish-breakout/",
+      "image_url": "https://crypto.snapi.dev/images/v1/5/x/crypto9-45799.jpg",
+      "title": "Bitcoin Price Eyes a Bullish Breakout! This level is the Deciding Factor",
+      "text": "Bitcoin price has shown excellent resilience today as it is again back up to testing resistance at the $40000 level. BTC price has shredded gains and immediately regained the same all in just 24 hours. Amidst this volatility, it is crucial to know whether this uptrend will further validate a bull rally or not.  After …",
+      "source_name": "CoinPedia",
+      "date": "Wed, 28 Jul 2021 03:42:16 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://www.theblockcrypto.com/post/112757/bitcoin-rewards-provider-lolli-series-a-funding-acrew",
+      "image_url": "https://crypto.snapi.dev/images/v1/u/q/20210727-funding-lolli-800x450-45889.jpg",
+      "title": "Bitcoin rewards provider Lolli raises $10 million in Series A funding",
+      "text": "Bitcoin rewards provider Lolli has raised $10 million in a Series A funding round led by Acrew Capital. The post Bitcoin rewards provider Lolli raises $10 million in Series A funding appeared first on The Block.",
+      "source_name": "The Block",
+      "date": "Wed, 28 Jul 2021 09:00:50 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "news_url": "https://dailyhodl.com/2021/07/28/glassnode-looks-at-state-of-bitcoin-amid-extremely-quiet-on-chain-activity/",
+      "image_url": "https://crypto.snapi.dev/images/v1/s/f/examining-btcjpgfit10242c600ssl1-45810.jpg",
+      "title": "Glassnode Looks at State of Bitcoin Amid ‘Extremely Quiet' On-Chain Activity",
+      "text": "Blockchain analytics firm Glassnode is looking at the state of Bitcoin after the world's leading crypto by market cap launched a sudden rally starting over the weekend. In a new report, Glassnode says that one potentially bullish factor for Bitcoin is the growing number of wallet addresses receiving BTC, rather than sending it. “On the […] The post Glassnode Looks at State of Bitcoin Amid ‘Extremely Quiet' On-Chain Activity appeared first on The Daily Hodl.",
+      "source_name": "The Daily Hodl",
+      "date": "Wed, 28 Jul 2021 05:00:40 -0400",
+      "topics": [
+        
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "BTC"
+      ]
+    }
+  ]
 }
