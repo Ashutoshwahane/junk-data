@@ -580,6 +580,246 @@
       "tickers": [
         "BTC"
       ]
-    }
+    },
+{
+            "news_url": "https://www.financemagnates.com/cryptocurrency/news/us-senator-shows-optimism-regarding-new-cryptocurrency-bill/",
+            "image_url": "https://crypto.snapi.dev/images/v1/q/z/crypto-legislation-in-the-us-min-49090.jpg",
+            "title": "US Senator Shows Optimism Regarding New Cryptocurrency Bill",
+            "text": "Cynthia Lummis mentioned that the crypto community would be pleased with the outcome.",
+            "source_name": "FinanceMagnates",
+            "date": "Mon, 09 Aug 2021 01:44:18 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://u.today/crypto-just-got-screwed-in-us-senate-says-ted-cruz",
+            "image_url": "https://crypto.snapi.dev/images/v1/k/n/adobestock-193744704-49084.jpeg",
+            "title": "Crypto Just “Got Screwed” in US Senate, Says Ted Cruz",
+            "text": "While Sen. Cynthia Lummis vows to continue fighting for the favorable crypto amendment, there might not be enough time left to pass it",
+            "source_name": "UToday",
+            "date": "Mon, 09 Aug 2021 00:58:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cryptopolitan.com/why-are-businesses-interested-in-entering-metaverses-and-crypto/",
+            "image_url": "https://crypto.snapi.dev/images/v1/w/h/why-are-businesses-interested-in-entering-metaverses-and-crypto-49077.png",
+            "title": "Why Are Businesses Interested in Entering Metaverses and Crypto?",
+            "text": "Facebook has recently announced that it will shift to a “metaverse company.” This is a big deal, as Facebook has over 3 billion users, making it the largest social network in the world.",
+            "source_name": "Cryptopolitan",
+            "date": "Sun, 08 Aug 2021 23:00:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://news.bitcoin.com/us-senator-warren-benefits-cryptocurrency-run-on-crypto-need-federal-bailout/",
+            "image_url": "https://crypto.snapi.dev/images/v1/a/o/warren-49074.jpg",
+            "title": "US Senator Warren Sees Benefits of Cryptocurrency but Warns ‘a Run on Crypto' May Need Federal Bailout",
+            "text": "U.S. Senator Elizabeth Warren, a longtime bitcoin skeptic, has shared her view of the benefits of cryptocurrencies. While noting that “The biggest upside to cryptocurrency could be expansion or democratization of access to the financial system,” she warned that the crypto industry may need federal bailout if something goes wrong, such as “a run on […]",
+            "source_name": "Bitcoin",
+            "date": "Sun, 08 Aug 2021 22:00:00 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://news.bitcoin.com/billionaire-hedge-fund-manager-ray-dalio-government-will-outlaw-cryptocurrency/",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/t/dalio-concerned-49070.jpg",
+            "title": "Billionaire Hedge Fund Manager Ray Dalio Still Concerned Government Could Outlaw Cryptocurrency",
+            "text": "The founder of the world's largest hedge fund, Bridgewater Associates, is still concerned that governments could outlaw cryptocurrencies. Nonetheless, he sees bitcoin as digital gold and owns some for diversification. Ray Dalio Worried About Government Outlawing Cryptocurrencies Bridgewater Associates founder Ray Dalio is still concerned that governments may outlaw cryptocurrency. Dalio now serves as the […]",
+            "source_name": "Bitcoin",
+            "date": "Sun, 08 Aug 2021 20:00:21 -0400",
+            "topics": [
+                "institutions"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.newsbtc.com/news/buy-crypto-with-apple-pay-coinbase/",
+            "image_url": "https://crypto.snapi.dev/images/v1/u/l/btc-apple-49064.jpeg",
+            "title": "Coinbase Adds Option To Buy Crypto With Apple Pay, Google Pay To Follow",
+            "text": "Crypto continues to see tremendous growth these past weeks. Prices of coins have soared across the board as sentiments continue to skew in the positive.",
+            "source_name": "NewsBTC",
+            "date": "Sun, 08 Aug 2021 19:00:13 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://cryptopotato.com/sec-charges-defi-lender-and-its-executives-for-raising-30-million-trough-unregistered-sales/",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/e/sec-cover-49067.jpg",
+            "title": "SEC Charges DeFi Lender and its Executives for Raising $30 Million Trough Unregistered Sales",
+            "text": "The SEC has filed a lawsuit against a Decentralized Finance (DeFi) lender and two of its executives for raising $30 million through unregistered sales. ",
+            "source_name": "CryptoPotato",
+            "date": "Sun, 08 Aug 2021 18:06:51 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://ambcrypto.com/could-jack-dorseys-workable-simplification-regarding-crypto-tax-provision-help/",
+            "image_url": "https://crypto.snapi.dev/images/v1/l/i/light-bulb-2010022-1280-1-e1628434619544-49066.jpg",
+            "title": "Jack Dorsey has a ‘workable simplification' for crypto tax provision",
+            "text": "The lack of regulations in the field of cryptocurrencies once again emerged as a pain point when the United States government released its proposed tax provisions, as part of the Infrastructure Bill. Prominent technology giant and crypto figure, Jack Dorsey jumped into conversing about crypto, offering a “workable simplification” regarding the crypto tax provisions.",
+            "source_name": "AMBCrypto",
+            "date": "Sun, 08 Aug 2021 18:00:59 -0400",
+            "topics": [
+                "taxes"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://bitcoinist.com/binance-us-ceo-brian-brooks-resigns-after-4-months/?utm_source=rss&utm_medium=rss&utm_campaign=binance-us-ceo-brian-brooks-resigns-after-4-months",
+            "image_url": "https://crypto.snapi.dev/images/v1/x/t/binance-640x360-49061.jpeg",
+            "title": "Binance US CEO Brian Brooks Resigns After 4 Months",
+            "text": "Brian Brooks, CEO resigned as CEO of Binance.US this Friday. This may be due to recent crackdowns posed by many superpowers, the U.S. included.",
+            "source_name": "Bitcoinist",
+            "date": "Sun, 08 Aug 2021 18:00:38 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://coingape.com/88991-2/",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/y/dft-4-49060.png",
+            "title": "DeFi Tokens Pares Off Gains As Crypto Market Inks a Broad Retracement",
+            "text": "The steam that was gathered in the broad cryptocurrency ecosystem over the weekend appears to be cooling off with a wide price retracement currently manifesting. While Bitcoin (BTC) is waging a volatility war to maintain balance at the $43,000 support level, the hoard of Decentralized Finance (DeFi) tokens are gradually slipping off their weekly highs.",
+            "source_name": "Coingape",
+            "date": "Sun, 08 Aug 2021 17:02:15 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.dcforecasts.com/altcoin-news/marvel-entered-the-crypto-space-by-launching-spider-man-nfts/",
+            "image_url": "https://crypto.snapi.dev/images/v1/2/0/20210601-nft-generic-800x450-48761-49052.jpg",
+            "title": "Marvel Entered The Crypto Space By Launching Spider-Man NFTs",
+            "text": "Marvel entered the crypto space by launching a Spider-man NFT as it joined forces with VeVe to release it so let's read more in our latest crypto news today. The blockchain-based digital collectibles marketplace Veve will start selling Spider-Man nonfungible tokens over the weekend.",
+            "source_name": "DCForecasts",
+            "date": "Sun, 08 Aug 2021 15:01:39 -0400",
+            "topics": [
+                "NFT"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://dailyhodl.com/2021/08/08/binance-us-ceo-suddenly-steps-down-cites-differences-with-colleagues/",
+            "image_url": "https://crypto.snapi.dev/images/v1/j/x/bh1347109ejpgfit10242c600ssl1-49046.jpg",
+            "title": "Binance US CEO Suddenly Steps Down, Cites ‘Differences' With Colleagues",
+            "text": "Brian Brooks is resigning as chief executive officer of crypto exchange Binance.US just three months after he was appointed to the position. Brooks unveils to his 57,900 followers the reason behind his sudden departure.  “Greetings crypto community. Letting you all know that I have resigned as CEO of ⁦⁦⁦BinanceUS. Despite differences over strategic direction, I wish […] The post Binance US CEO Suddenly Steps Down, Cites ‘Differences' With Colleagues appeared first on The Daily Hodl.",
+            "source_name": "The Daily Hodl",
+            "date": "Sun, 08 Aug 2021 14:45:32 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cryptopolitan.com/coinbase-users-now-can-make-cash-withdrawals/",
+            "image_url": "https://crypto.snapi.dev/images/v1/b/l/blur-1853262-1280-49051.jpg",
+            "title": "Coinbase users now can make cash withdrawals",
+            "text": "TL;DR Breakdown • Coinbase clarifies that the RTP network has no limits on daily transactions.• The crypto platform partners with Google Pay and Apple Pay to purchase cryptocurrencies with fiat.",
+            "source_name": "Cryptopolitan",
+            "date": "Sun, 08 Aug 2021 14:42:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cryptopolitan.com/coffee-coin-brazilian-cryptocurrency/",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/1/battlecreek-coffee-roasters-my4hawxna-0-unsplash-49050.jpg",
+            "title": "Coffee coin: The Brazilian cryptocurrency that promises stability in coffee production",
+            "text": "TL;DR Breakdown • Coffee coin is trading today above $3.48 and has experienced a recovery in price.• The Brazilian cryptocurrency tries to control the drop in coffee production.",
+            "source_name": "Cryptopolitan",
+            "date": "Sun, 08 Aug 2021 14:02:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.dcforecasts.com/regulation/senate-delays-vote-on-crypto-tax-amendments-issue-report/",
+            "image_url": "https://crypto.snapi.dev/images/v1/u/8/fu345224jpgfit10242c600ssl1-48918-49039.jpg",
+            "title": "Senate Delays Vote On Crypto Tax Amendments Issue: Report",
+            "text": "The US Senate delays vote on the crypto tax amendments which came as a part of Biden's infrastructure bill and now we will have to wait and see what decision will be brought so let's read in today's crypto news. The amendments to the crypto provision of Biden's infrastructure bill didn't make it to the […]",
+            "source_name": "DCForecasts",
+            "date": "Sun, 08 Aug 2021 13:51:47 -0400",
+            "topics": [
+                "taxes"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cryptopolitan.com/digital-currencies-consumers-buy-with-crypto/",
+            "image_url": "https://crypto.snapi.dev/images/v1/o/d/pexels-crypto-crow-1447418-49044.jpg",
+            "title": "Digital currencies: More than 60% of consumers want to buy goods with crypto",
+            "text": "TL;DR Breakdown BitPay surveyed over 8,000 participants about cryptocurrencies, and the results are impressive. According to researchers in the Middle East, digital currencies are frequently used by young people.",
+            "source_name": "Cryptopolitan",
+            "date": "Sun, 08 Aug 2021 13:33:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://news.bitcoin.com/sec-chairman-satoshi-nakamotos-innovation-real-crypto-rules-clear/",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/2/gensler-49028.jpg",
+            "title": "SEC Chairman Says Satoshi Nakamoto's Innovation Is Real, Crypto Rules Are Clear",
+            "text": "The chairman of the U.S. Securities and Exchange Commission (SEC), Gary Gensler, says that Satoshi Nakamoto's innovation is real. “It has been and could continue to be a catalyst for change in the fields of finance and money,” he said. Satoshi Nakamoto's Innovation Is Real SEC Chairman Gary Gensler talked about bitcoin and cryptocurrency regulation […]",
+            "source_name": "Bitcoin",
+            "date": "Sun, 08 Aug 2021 12:00:03 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://decrypt.co/78018/crypto-tax-strife-continues-as-senate-delays-vote",
+            "image_url": "https://crypto.snapi.dev/images/v1/0/l/senate-gid-2-49026.jpg",
+            "title": "Crypto Tax Strife Continues As Senate Delays Vote",
+            "text": "The question of which entities in crypto are liable for tax reporting obligations has yet to be settled, if ever.",
+            "source_name": "Decrypt",
+            "date": "Sun, 08 Aug 2021 11:22:05 -0400",
+            "topics": [
+                "taxes"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://u.today/texas-senator-ted-cruz-reaffirms-his-support-for-crypto-industry",
+            "image_url": "https://crypto.snapi.dev/images/v1/x/q/9040-49013.jpg",
+            "title": "Texas Senator Ted Cruz Reaffirms His Support for Crypto Industry",
+            "text": "Texas senator Ted Cruz has sided with the cryptocurrency industry",
+            "source_name": "UToday",
+            "date": "Sun, 08 Aug 2021 09:23:00 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://cryptopotato.com/more-than-half-of-consumers-want-to-buy-goods-with-cryptocurrencies-survey/",
+            "image_url": "https://crypto.snapi.dev/images/v1/5/5/bitcoinpayments-49012.jpg",
+            "title": "More Than Half of Consumers Want to Buy Goods with Cryptocurrencies: Survey",
+            "text": "According to a recent research, around 60% of people want to use digital currencies as a payment method for everyday purchases.",
+            "source_name": "CryptoPotato",
+            "date": "Sun, 08 Aug 2021 09:01:19 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        }
   ]
 }
